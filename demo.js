@@ -1,6 +1,6 @@
 
 const sum = (a,b) => {
-    return a+b;
+    return a+b+4;
 }
 
 const mul = (a,b) => {
