@@ -23,3 +23,5 @@ const arrSort = (arr) =>{
 }
 
 const power = (a,b) => a**b;
+
+const printing =(msg)=> console.log(msg);
