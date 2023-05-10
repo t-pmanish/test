@@ -13,3 +13,11 @@ const sub = (a,b) => {
 
 const div = (a,b) => a/b;
 
+
+
+const arrSort = (arr) =>{
+    arr.sort();
+    return;
+}
+
+const power = (a,b) => a**b;
