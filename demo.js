@@ -19,3 +19,5 @@ const arrSort = (arr) =>{
     arr.sort();
     return;
 }
+
+const power = (a,b) => a**b;
