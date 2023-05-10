@@ -1,8 +1,7 @@
 
 const sum = (a,b) => {
-    return a+b+4;
+    return a+b+40;
 
-    return a+b;
 }
 
 const mul = (a,b) => {
